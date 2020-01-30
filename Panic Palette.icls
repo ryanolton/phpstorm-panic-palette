@@ -1,12 +1,22 @@
 <scheme name="Panic Palette" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-10-19T17:53:43</property>
+    <property name="created">2020-01-30T09:36:20</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-10-19T19:10:13</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="ideVersion">2020.1.0.0</property>
+    <property name="modified">2020-01-30T09:36:31</property>
+    <property name="originalScheme">Panic Palette</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="111c2a" />
     <option name="GUTTER_BACKGROUND" value="182535" />
